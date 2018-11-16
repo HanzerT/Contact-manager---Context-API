@@ -1,0 +1,12 @@
+{
+    "extends": ["react-app", "plugin:prettier/recommended"],
+    "rules": {
+        "key-spacing": "off",
+        "jsx-quotes": [2],
+        "max-len": [2, 120, 2],
+        "object-curly-spacing": [2, "always"],
+        "comma-dangle": "off"
+
+
+    }
+}

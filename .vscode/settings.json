@@ -1,0 +1,23 @@
+{
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx html"
+    },
+
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "vscode-icons",
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "prettier.disableLanguages": [
+        "js"
+    ],
+    "files.autoSave": "onFocusChange",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0
+}
